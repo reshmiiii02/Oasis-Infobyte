@@ -1,0 +1,30 @@
+input {
+    border-radius: 15px;
+    border: 2px bold #3c4043;
+    font-size: 16px;
+    line-height: 1;
+    outline: none;
+    font-weight: bold;
+    color:black;
+    padding: 5px 10px 5px 10px;
+    background-color:whitesmoke
+  }
+    
+  p {
+    margin-top: 20px;
+    padding-top: 55px;
+    color:black;
+    font-weight: bold;
+  }
+.second{
+    height: 300px;
+    width: 500px;
+    background-color:peachpuff;
+    border: 5px ;
+    border-radius: 20px;
+    border-color: black;
+    margin-left: 350px;
+}
+.first{
+    margin-left: 90px;
+}
